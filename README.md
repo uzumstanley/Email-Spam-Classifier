@@ -24,6 +24,14 @@ Protecting Against Cyber Threats: Identifies potentially harmful content such as
 
 Improved User Experience: Enhances user experience by providing a cleaner and safer email environment, ensuring that important communications are not missed or overlooked.
 
+Educational and Research Purposes: Supports research in NLP, machine learning, and cybersecurity, contributing to advancements in technology and knowledge.
+
+## Models comapared
+Logistic Regression: Supervised learning model for binary classification.
+Multinomial Naive Bayes: Probability-based classifier suitable for text classification tasks.
+Random Forest: Ensemble learning method that builds multiple decision trees.
+Long Short-Term Memory (LSTM): Deep learning model designed to handle sequence data, particularly useful for NLP tasks.
+
 
 
 
