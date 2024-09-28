@@ -32,6 +32,17 @@ Multinomial Naive Bayes: Probability-based classifier suitable for text classifi
 Random Forest: Ensemble learning method that builds multiple decision trees.
 Long Short-Term Memory (LSTM): Deep learning model designed to handle sequence data, particularly useful for NLP tasks.
 
+## Deployment
+The project includes a Streamlit web application for deploying the trained models. Users can input email text and receive instant predictions regarding its classification as spam or not spam.
+The application allows users to:
+Input email text for classification.
+View the predicted classification (spam or not spam) 
+The web application is accessible via Streamlit Share at the following URL:  https://email-spam-classifier-osoz.onrender.com
 
+## Acknowledgments
+NLTK: For providing powerful tools for text preprocessing.
+Scikit-learn: For machine learning algorithms and tools.
+Streamlit: For easy deployment of the web application.
+Special thanks to all contributors and the open-source community.
 
 
